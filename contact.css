@@ -1,0 +1,39 @@
+body{
+    background-image: url(pf.avif);
+    background-repeat: no-repeat;
+    background-size: 1280px 580px;
+}
+form{
+    border: solid 1px wheat hidden;
+    width: 500px;
+    padding-left:10px;
+    margin-left: 100px;
+}h1{
+    color: aliceblue;
+    font-size: 40px;
+    text-align: centre;
+    font-weight: bold;
+}
+label{
+    color: beige;
+    font-size: 22px;
+    font-weight: bold;
+}
+input{
+    height: 26px;
+    width: 350px;
+    border-radius: 20px;
+}
+textarea{
+    width: 350px;
+
+}
+button{
+    height: 50px;
+    width: 150px;
+    background-color: brown;
+    font-size: 22px;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+}
